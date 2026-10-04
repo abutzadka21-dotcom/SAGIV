@@ -150,7 +150,7 @@ These are posts written by Israeli users (forum questions), not comments under a
 1. **Problem vocabulary.** In the user-written titles the problem is "שחור" [black] (dark circles), "קמטים" [wrinkles] and "נפיחות" [puffiness]. Commercial copy uses the more formal "כהויות" [darkness] and "שקיות" [bags]. A hook that mirrors the colloquial "שחור מתחת לעיניים" may sound more like the customer. The sample is small (6 titles) and probably old [INFERENCE].
 2. **Peer-advice framing.** Titles like "מי מכירה" [who knows], "מה שמים" [what do you put] and "צריכה עצות" [need advice] are feminine and peer-to-peer. UGC hooks written as one woman answering another fit this register better than brand voice [INFERENCE].
 3. **Appetite for quick, cheap, temporary fixes.** Tea bags, cucumber and hemorrhoid cream show it, as does the caution around them (the hemorrhoid-cream warning). A cosmetic made specifically for the eye area answers both the hack-seeking and the safety worry [INFERENCE].
-4. **Visible review counts are a standard trust device** for small Israeli brands (1139 reviews, "dozens of excellent reviews"). A new Hebrew store needs on-site Hebrew reviews from day one [INFERENCE].
+4. **Visible review counts are a standard trust device** for small Israeli brands (1139 reviews at one store, dozens of excellent reviews at another, per the tool's paraphrase). A new Hebrew store needs on-site Hebrew reviews from day one [INFERENCE].
 5. **Likely comment themes remain hypotheses.** From round 1: price, where to buy, "פוטושופ" [Photoshop], "עוקץ" [scam], "זה דבק" [it's glue]. Round-2 trust data adds a likely question: is this an Israeli store? (Q4: a reported 77% "blue and white" preference) [INFERENCE].
 
 ### Gaps (could not verify)
@@ -259,7 +259,7 @@ There is still no verified Israeli beauty creator aged 35-60 with a handle and a
 - Daria Dolginova: a Russian-speaking Israeli lifestyle creator.
 - Cosmetician directories, for local partnerships.
 
-A strong warning sign: Walla exposed a "beloved TikTok doctor" as an impostor. Medical authority on Israeli TikTok is therefore contested.
+A strong warning sign: Walla exposed a TikTok doctor described in its headline as "הרופאה האהובה בטיקטוק" [the beloved TikTok doctor] as an impostor. Medical authority on Israeli TikTok is therefore contested.
 
 ### Cited Findings
 1. **Maayan Adam's older-skewing audience.** Tool summary [VERIFIED (paraphrase)]: *למעיין אדם רוב העוקבות הן נשים מבוגרות, עם בערך 90% נשים ויותר בנות 60 מבנות 16, כשהרוב סביב גיל 40-30* [most of Maayan Adam's followers are older women: about 90% women, more 60-year-olds than 16-year-olds, with the majority around 30-40].
@@ -309,7 +309,7 @@ A strong warning sign: Walla exposed a "beloved TikTok doctor" as an impostor. M
 
 ### Takeaway
 Israeli trust data points to high fraud exposure and a preference for Israeli sellers:
-- "42% of Israelis fell victim to an online scam" (Calcalist headline, attributed to ISOC-IL).
+- 42% of Israelis fell victim to an online scam (Calcalist headline "42% מהישראלים נפלו קורבן להונאה ברשת", attributed to ISOC-IL).
 - 63% fear that orders from abroad will not arrive (Globes, probably about 2014).
 - An unpinned 77% say they prefer to buy "blue and white" (Israeli).
 - Unpinned fear figures: 56% fear online shopping; 60% fear card theft.
@@ -380,7 +380,7 @@ Israeli agencies sell UGC as the cure for "banner blindness". Their pages claim 
 
 ### Inferences
 1. **The store must look and feel Israeli.** The reported 77% "blue and white" preference, the 64% share of transactions on Israeli sites and the older 63% fear of foreign orders all point the same way. Needed signals: a Hebrew site, an Israeli phone and WhatsApp, Israeli shipping times stated in days, Israeli faces and an Israeli company name. A dropship-looking store starts behind [INFERENCE].
-2. **Category spillover.** 16% fear buying "vitamins, supplements and pharmaceutical products" online (unpinned). An eye product that looks quasi-medical may inherit some of that fear, so the copy should stay cosmetic and explain how it works, without medical claims [INFERENCE].
+2. **Category spillover.** 16% fear buying vitamins, supplements and pharmaceutical products online (unpinned paraphrase). An eye product that looks quasi-medical may inherit some of that fear, so the copy should stay cosmetic and explain how it works, without medical claims [INFERENCE].
 3. **Format.** The Israeli agency consensus is UGC-led creative on Meta Reels and Stories, with TikTok as a secondary channel starting at 50-100 NIS a day. Agencies suggest roughly 10-15% of ad spend for creative [INFERENCE from agency paraphrases].
 4. **Endorsements are under suspicion.** Scams reuse familiar Israeli bloggers' faces, and a fake TikTok doctor was exposed. Real customers with names and on-camera, unedited demos are safer than celebrity or doctor endorsements [INFERENCE].
 5. **Round 1's style rules remain [GENERAL KNOWLEDGE]:** straight talk ("dugri"), self-irony, and the "frayer" (sucker) reflex. Round 2 found no Israeli source that tests humor or straight talk in ads.
@@ -488,8 +488,8 @@ Unpinned and undated figures from search summaries:
 
 Verified titles frame the economics and the culture:
 - A full-face Botox treatment costs 2,000 NIS, about 105,000 NIS over a decade (Bizportal).
-- Israel is called an "aesthetic-treatment superpower" (Walla).
-- Mainstream media also cover a "natural revolution" against Botox (Israel Hayom), filler dissolving (Walla), and a DIY flaxseed "Botox mask" trend on TikTok (ynet).
+- Walla's headline calls Israel "מעצמה של טיפולים אסתטיים" [an aesthetic-treatment superpower].
+- Mainstream media also cover "המהפכה הטבעית" [the natural revolution] against Botox (Israel Hayom), filler dissolving (Walla), and a DIY flaxseed Botox-mask trend on TikTok (ynet title; the trend description is the tool's paraphrase).
 
 ### Cited Findings
 **A. Prevalence and spend**
@@ -527,9 +527,9 @@ Verified titles frame the economics and the culture:
 8. **"Without Botox" and "without surgery" as headline hooks.** See Q2 items 8 and 18 [VERIFIED (title)].
 
 ### Inferences
-1. **The price anchor works in TMP-02's favor.** One full-face Botox treatment costs about 2,000 NIS. TMP-02 at about 100-115 NIS is a cheap, needle-free option for event days. It should be framed as "for the day" and "not instead of the clinic", since the Israeli audience punishes over-claiming (round 1) [INFERENCE].
+1. **The price anchor works in TMP-02's favor.** One full-face Botox treatment costs about 2,000 NIS. TMP-02 at about 100-115 NIS is a cheap, needle-free option for event days. It should be framed as a for-the-day product, not a clinic replacement, since the Israeli audience punishes over-claiming (round 1) [INFERENCE].
 2. **The desire for temporary tightening is already mainstream** (the flaxseed "Botox mask" coverage). TMP-02 can present itself as the reliable, ready-made version of a DIY hack, without mocking it [INFERENCE].
-3. **The natural-look ideal** supports "looks like you, rested" messaging. It argues against "erase 10 years" and against showing over-tight, shiny results in demos [INFERENCE].
+3. **The natural-look ideal** supports a looks-like-you-but-rested message. It argues against erase-10-years claims and against showing over-tight, shiny results in demos [INFERENCE].
 4. **Botox users are an adjacent audience.** Botox is common (about 187,000 treatments a year, if the figure holds) and concentrated on the upper face (forehead and laugh lines). The under-eye area is a zone where many Botox users still look for help, so TMP-02 can be marketed as a complement [INFERENCE; no under-eye-specific data found].
 
 ### Gaps (could not verify)
