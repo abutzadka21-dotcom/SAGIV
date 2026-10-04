@@ -16,13 +16,15 @@
 1. **בענן (עכשיו):** מסיימים לכתוב את כל הדוח לתוך המסמך. כל העבודה נדחפת ל-GitHub.
 2. **על המחשב (אחר כך):** מורידים הכול ומריצים סשן מקומי עם Chrome כדי לסגור את החורים (ראו בסוף הקובץ) ולעשות בדיקת איכות אחרונה.
 
-## מצב העבודה (4 באוקטובר 2026, 11:05 בערך)
+## מצב העבודה (4 באוקטובר 2026, 13:00 בערך)
 
 - המחקר: הסתיים (2 סבבים, 19 קבצים, ועוד 4 תקצירים D1-D4).
-- שלבים 1-10 במסמך: 5 סוכנים כותבים אותם עכשיו בסשן הענן.
-- אחריהם: סיכומי רוחב, תשובות לשאלות המחקר, קונספטים לשוק המקור וניתוח אסטרטגי, ניתוח השוואתי, מסקנות לקהל הישראלי, סיכום מנהלים, "מה לא הצלחתי לבדוק", מקורות.
-- `reports/section_playbook.md`: מה כל אחד מ-18 הפרקים חייב להכיל, המסקנות המחייבות ומפת הקבצים. אם צריך לחדש את הכתיבה במחשב, זה הקובץ שממנו ממשיכים.
-- אם עוצרים את סשן הענן באמצע, פרקים שבכתיבה יישארו חלקיים: יופיעו במסמך כבלוקים "ממתינים" (pending).
+- המסמך: כל 18 הפרקים כתובים בלשונית הראשית. הלשונית הגיעה למגבלת הגודל של Claude Docs (כ-20,000 בלוקים), ולכן שאלות המחקר 32-48 נמצאות בלשונית שנייה, "תשובות לשאלות המחקר: המשך". יש אליה קישור מתוך הפרק "תשובות לשאלות המחקר".
+- בקרת איכות: בוצעו שני סבבים: מקפים, תוויות, ערבוב שווקים, עקביות המסקנות והקווים האדומים בקונספטים.
+- `reports/section_playbook.md`: מה כל אחד מ-18 הפרקים חייב להכיל, המסקנות המחייבות ומפת הקבצים.
+- `reports/sources.md`: 1,603 כתובות ייחודיות, מקובצות לפי נושא.
+- שמירה מקומית של המסמך: מתפריט הייצוא של המסמך עצמו (Word, PDF, Markdown או Google Docs), לכל לשונית בנפרד.
+- כל תוספת למסמך צריכה להיכנס ללשונית השנייה או ללשונית חדשה, כי הלשונית הראשית מלאה.
 
 ## איך ממשיכים על המחשב
 
@@ -49,8 +51,9 @@ markets, never use GitHub-derived data), then the digests D1-D4 and the notes in
 /home/user/SAGIV/ are relative to this repo root.
 
 Then:
-1. Read the doc's outline with the Claude Docs connector and fill every remaining pending block,
-   following the guide's sub-pending method, one section per call.
+1. Read the doc's outline with the Claude Docs connector (both tabs). The main tab is at the
+   Claude Docs size limit (about 20,000 blocks): put any new material in the second tab
+   ("תשובות לשאלות המחקר: המשך") or in a new tab, and link it from the main tab.
 2. Use Claude in Chrome (new tab, my own sign-ins) to close the research gaps listed in the
    "Could not verify" sections of the notes, starting with: Reddit threads (r/SkincareAddiction,
    r/30PlusSkinCare, r/40PlusSkincare) on instant eye tighteners; Amazon reviews of the Studio Dermal
