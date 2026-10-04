@@ -121,3 +121,76 @@ Running count after S15: about 35 new verbatim items (some short fragments). Sea
 - Verbatim thread titles: "Super visible under eye circles"; "Eye cream HELP!"; "Best product to firm eyelids?"; "Eye hollows/lines"; "Puffy Under Eyes".
 
 Running count after S21: about 40 verbatim body quotes plus verbatim thread titles. Searches used: 21 of 40.
+
+### S22 Target Plexaderm (extended, target.com)
+- No results.
+
+### S23 Influenster PTR (extended, influenster.com)
+- [VERIFIED, verbatim Q&A title, truncated by site] "I use this product for my eye bags. It really …" https://www.influenster.com/reviews/peter-thomas-roth-instant-firmx-eye-30ml1oz/questions/i-use-this-product-for-my-eye-bags-it-r-61766539
+- Paraphrase / near-verbatim: applied under the eyes and along the cheek area daily; lifted, firmer look, more awake and refreshed; lifting almost instant, visible in as little as ten minutes; sets in about 5 minutes; under-eye lines and bags "magically gone for the day" (unquoted); white dry patches; white cast depending on application. https://www.influenster.com/reviews/peter-thomas-roth-instant-firmx-eye-30ml1oz
+
+### S24 UK retailers PTR (extended, lookfantastic.com, cultbeauty.co.uk, boots.com, spacenk.com)
+- [VERIFIED, tool summary] Aggregate 3.24 of 5 from 1,819 reviews (PTR Instant FIRMx Eye, product 11289134, LOOKFANTASTIC / Cult Beauty).
+- Near-verbatim (unquoted), UK: turns white and flaky "even when a pea size or crumb size amount is used and on clean product-free faces"; the 'tightening' effect can make the area feel dry; avoid putting it over foundation "as it will go crusty and white"; follow instructions very carefully to avoid a white cast; "The temporary tightening actually lasts pretty much all day"; dramatically reduces puffiness in less than a minute.
+- Set: https://www.lookfantastic.com/peter-thomas-roth-instant-firmx-eye/11289134.reviews ; https://www.lookfantastic.com/p/peter-thomas-roth-instant-firmx-eye-temporary-eye-tightener-30ml/11289134/ ; https://www.cultbeauty.co.uk/p/peter-thomas-roth-instant-firmx-eye-temporary-eye-tightener-30ml/11289134/?pageNumber=6 ; https://www.cultbeauty.co.uk/p/11289134/?variation=11292388&bvstate=pg:2/ct:r ; https://www.cultbeauty.co.uk/p/peter-thomas-roth-instant-firmx-temporary-eye-tightener-easy-wear-formula/17533945/ ; https://www.lookfantastic.com/p/peter-thomas-roth-instant-firmx-temporary-eye-tightener-easy-wear-formula-20ml/17533945/ ; blog https://www.lookfantastic.com/blog/discover/is-the-peter-thomas-roth-instant-firmx-eye-cream-really-worth-the-hype/
+
+### S25 "my husband" (extended, multi-retailer)
+- Paraphrase: would buy it for her husband too and recommend to everyone; once they speak, smile or apply makeup the effect wears off, same for husband; does not help small lines around eyes and mouth. Set: https://ie.trustpilot.com/review/www.plexaderm.com?page=3 ; https://www.hsn.com/product-reviews/plexaderm-rapid-reduction-wrinkle-serum-2-pack/10093143?page=3&sortTerm=Rating&sortSequence=Descending&star=0
+
+### S26 "waste of money" (extended, multi-retailer)
+- [VERIFIED, set-level fragment, Plexaderm] "a waste of time and money" (effect lasted maybe 2 hours)
+- [VERIFIED, set-level fragment, Plexaderm] "a reptile shedding its skin" (if you smile or put makeup on, it cracks; embarrassing in public)
+- [VERIFIED, set-level fragments, PTR on Trustpilot] "RUBBISH"; "waste of money"; "does ABSOLUTELY NOTHING"
+- Near-verbatim: works by pulling skin tight like a thin coat of glue, uncomfortable, removes all moisture from the area.
+- Set: https://www.trustpilot.com/review/www.plexaderm.com ; https://ie.trustpilot.com/review/www.plexaderm.com ; https://nz.trustpilot.com/review/www.plexaderm.com?page=3 ; https://www.walmart.com/reviews/product/232003700 ; https://www.walmart.com/reviews/product/5059064050 ; https://www.hsn.com/product-reviews/plexaderm-rapid-reduction-wrinkle-serum-2-pack/10093143?page=8&sortTerm=Rating&sortSequence=Descending&star=0 ; https://community.qvc.com/t5/Beauty/Plexaderm-has-anybody-tried-it/td-p/7440679 ; PTR: https://nz.trustpilot.com/review/www.peterthomasroth.com
+- New forum thread (verbatim title): "Plexaderm - has anybody tried it?" https://community.qvc.com/t5/Beauty/Plexaderm-has-anybody-tried-it/td-p/7440679
+
+### S27 "holy grail" / "game changer" (extended, multi-retailer)
+- Near-verbatim (unquoted): "nothing has come close to the results with Instant FIRMx". Set: https://www.sephora.com/product/instant-firmx-eye-sheer-tint-temporary-eye-tightener-P517703 ; https://www.sephora.com/product/instant-firmx-eye-P283106 ; https://www.walmart.com/reviews/product/2655230881 ; https://www.walmart.com/reviews/product/667211986
+
+### S28 Easy-Wear tint and skin tone (extended, sephora.com, ulta.com)
+- [VERIFIED, set-level, PTR Easy-Wear] "leaves a dark cast (similar to having a black eyes)"
+- [VERIFIED, set-level, PTR Easy-Wear] "The original formula leaves a white cast, so I was so hopeful for this new formula"
+- [VERIFIED, set-level, PTR Easy-Wear] "it left my skin looking like a foundation color that didn't blend with my own skin color"
+- [VERIFIED, set-level, PTR eye PATCHES, not a tightener; not counted] "I am someone who struggles with dark under eyes and with this product I have seen such a big differences"
+- Set: https://www.sephora.com/product/instant-firmx-eye-sheer-tint-temporary-eye-tightener-P517703 ; https://www.ulta.com/p/instant-firmx-eye-temporary-eye-tightener-easy-wear-formula-pimprod2052935?sku=2643167 ; https://www.ulta.com/p/instant-firmx-eye-temporary-eye-tightener-easy-wear-formula-pimprod2052935?pr_rd_page=6
+
+### S29 HSN Plexaderm secondary uses (extended, hsn.com)
+- Paraphrases: got rid of "eleven" and forehead lines; used on smile lines, around the upper lip and between the brows; helped fine lines, dark circles and bags; a deep forehead line: no difference; works on puffy eyebags but not smile lines and chin; over-lip wrinkles: quit working about 3 hours after application.
+- Set: https://www.hsn.com/product-reviews/plexaderm-rapid-reduction-wrinkle-serum-2-pack/23347757?page=4&sortTerm=Rating&sortSequence=Descending&star=0 ; https://www.hsn.com/product-reviews/plexaderm-rapid-reduction-wrinkle-serum-2-pack-auto-shi/23347763?page=2&sortTerm=Rating&sortSequence=Descending&star=0 ; https://www.hsn.com/product-reviews/plexaderm-2-month-supply-30-count-box-rapid-reduction-w/10088618 ; https://www.hsn.com/reviews/best-plexaderm-reviews/19413
+
+### S30 QVC PTR wear time and makeup (extended, qvc.com)
+- [VERIFIED, tool summary] "rated 4.1 out of 5 by 68 reviewers" (a QVC PTR Instant FIRMx Eye page, probably the Easy Wear listing; page not specified).
+- Paraphrases: lasts all day; liquid foundation is not good on top but powder foundation "works amazing"; only powder over it, e.g. a powder concealer like bisque; needs concealer over redness after it sets.
+- Set: https://www.qvc.com/peter-thomas-roth-instant-firmx-eye-easy-wear-067oz-wbag.product.A710560.html ; https://www.qvc.com/peter-thomas-roth-instant-firmx-eye-easy-wear-auto-delivery.product.A719969.html ; https://www.qvc.com/Peter-Thomas-Roth-Instant-FIRMx-Eye.product.A340657.html ; https://community.qvc.com/t5/Beauty/Peter-Thomas-Roth-Instant-Firm-X-Eye/td-p/818683 ; https://community.qvc.com/t5/Beauty/LADIES-Please-Help-PTR-FirmX-Eye/td-p/1462264
+
+### S31 Studio Dermal shop.app / brand page (extended, shop.app, studiodermal.com)
+- Near-verbatim (unquoted; source may be the brand-hosted review page, which Scamadviser says uses an owner-editable review system): used 3 times, reduced puffiness so concealer no longer looks like "lighter bags"; "really does work in minutes", "slight stickiness for the first few minutes", "once it fully sets, it's perfect"; tightening "is real and doesn't feel heavy or weird on the skin", after 3 weeks "still amazed every time"; results not as dramatic as ads but improve the whole eye area, would buy again; "nowhere near as good as advertised".
+- Set: https://shop.app/products/10329331892566/temporary-eye-tightener ; https://studiodermal.com/pages/reviews-eye-cream ; https://studiodermal.com/products/tmp-02
+- Brand page title surfaced (verbatim): "Concealer Is A Scam" https://studiodermal.com/pages/concealer-listicle-03
+
+### S32 Amazon individual review pages (extended, amazon.com)
+- [VERIFIED, paraphrase with metadata] 5-star review by "Gail Carter", posted September 12, 2024 (Plexaderm Rapid Reduction Eye Serum): uses it under the eyes and the bags are gone; small container, easy storage, no smell, excellent product. https://www.amazon.com/gp/customer-reviews/R14IW591TOHAPD
+
+### S33 Sudden Change (extended, walmart.com, amazon.com, cvs.com, walgreens.com, target.com)
+- Paraphrase / near-verbatim: dark circles disappeared; bags completely disappeared; "definitely does what it says"; leaves a filmy, crusty layer; dries grainy, does not mix with makeup or moisturiser; feels like glue, stiff and sticky, white crusty film; flaky crust; did not work on puffiness, left a powdery film; made bags "puffier and crepey looking". Rating about 3.4 to 3.7 across retailers.
+- Set: https://www.walmart.com/reviews/product/20565290 ; https://www.amazon.com/Sudden-Change-Under-Eye-Firming-Serum/product-reviews/B005FTXO22?reviewerType=all_reviews ; https://arcus-www.amazon.com/product-reviews/B095FL23YS ; https://www.walmart.com/reviews/product/510075601
+
+Running count after S33: about 48 verbatim body quotes (incl. short fragments). Searches used: 33 of 40.
+
+### S34 Trustpilot Studio Dermal "Date of experience" (extended, trustpilot.com)
+- [VERIFIED, set-level fragment, attributed by the tool to Studiodermal] "the eyes are what date a face" (reviewer is the oldest in her book club and has "aged the best", credits the tightener)
+- [VERIFIED, set-level fragment, attributed by the tool to Studiodermal] "spanx for your eyes" (near-verbatim continuation, unquoted: it literally holds everything where it's supposed to be)
+- Paraphrases: used it since spring for her daughter's June wedding; eyes looked worse, the product tightened lines and wrinkles and made them more prominent; did not work at all, waste of money.
+- Set: https://uk.trustpilot.com/review/studiodermal.com ; https://ca.trustpilot.com/review/studiodermal.com?page=2 ; https://au.trustpilot.com/review/studiodermal.com (other brands' pages in the same set: PTR, Skinbunny, Eyelation, Dermalabs, My Perfect Eyes; medium confidence)
+
+### S35 Amazon Studio Dermal review dates (extended, amazon.co.uk, amazon.com)
+- [VERIFIED, metadata] UK review dates returned: 20 February 2026 (5-star, Instant Eye Lifting Peptide Formula); 8 April 2026 (negative); 22 April 2026 (several, negative); 5 May 2026; 16 May 2026. Tool paraphrase: "many reporting little to no visible results". Exact listing per review not specified.
+- [VERIFIED, listing titles] B0GPQ9KRM8 (round-1 gap, now surfaced): "Studio Dermal Instant Eye Lifting Peptide Formula, Studio Dermal Eye Tightener, Temporary Eye Tightener, Eye Bags Remover, Eye Tightening Cream, Reduces Fine Lines Wrinkles, for All Skin Types (2PCS)" https://www.amazon.co.uk/Instant-Tightener-Temporary-Tightening-Wrinkles/dp/B0GPQ9KRM8
+- Other UK listings: B0H1CHY46D https://www.amazon.co.uk/Tightener-Instant-Puffiness-Anti-Ageing-Use%EF%BC%881PC%EF%BC%89/dp/B0H1CHY46D ; B0GKMDYLFM https://www.amazon.co.uk/Studio-Instant-Lifting-Peptide-Formula/dp/B0GKMDYLFM ; B0GKG7D1LZ https://www.amazon.co.uk/Instant-Advanced-Temporary-Tightener-Wrinkles/dp/B0GKG7D1LZ ; B0GRWCW8B8 https://www.amazon.co.uk/Instant-Lifting-Advanced-Tightener-Wrinkles/dp/B0GRWCW8B8 ; B0GPWL7LY5 https://www.amazon.co.uk/Temporary-Tightener-Tightening-Hydration-Firmness/dp/B0GPWL7LY5
+
+### S36 HSN Plexaderm emotional phrases (extended, hsn.com)
+- Paraphrase / near-verbatim (unquoted): skeptical but it got rid of eye bags and eleven lines in a few minutes; gives her "an extra boost of confidence each time"; insecure about under-eye bags before a wedding, it helped her feel so much better; can see the difference within minutes and is "no longer afraid of taking pictures or embarrassed of" her wrinkles.
+- Set: https://www.hsn.com/product-reviews/plexaderm-rapid-reduction-wrinkle-serum-2-pack/10093143 ; https://www.hsn.com/product-reviews/plexaderm-rapid-reduction-wrinkle-serum-2-pack-auto-shi/23347763?page=2&sortTerm=Rating&sortSequence=Descending&star=0 ; https://www.hsn.com/reviews/best-plexaderm-reviews/19413 ; https://www.hsn.com/product-reviews/plexaderm-2-month-supply-30-count-box-rapid-reduction-w/10088618
+
+Running count after S36: about 50 verbatim body quotes (incl. fragments). Searches used: 36 of 40.
