@@ -25,18 +25,18 @@ All quotes below are [VERIFIED].
 
 ### 1.3 Fears
 1. **Visible failure in public** (22 of A8's 56 quotes; very high): "it's almost impossible to put make up over and if you move your face it cracks." Mumsnet (desire 1); "a reptile shedding its skin" Trustpilot, Plexaderm https://www.trustpilot.com/review/www.plexaderm.com
-2. **Being noticed as tired, old, "in decline"** (high): "Are my eye bags for life now." ... "my laid back dh who doesn’t even notice when I go from black to blond hair noticed them this morning" Mumsnet https://www.mumsnet.com/talk/style_and_beauty/5089431-are-my-eye-bags-for-life-now-is-there-anything-i-can-do-for-my-black-under-bags-theyre-now-so-bad-my-laid-back-dh-who-doesnt-even-notice-when-i-go-from-black-to-blond-hair-noticed-them-this-morning ; 62% of women 50-70 feel 50+ is "viewed by society as a time of decline" (QVC/YouGov 2024) https://fashionunited.uk/news/fashion/qvc-targeting-over-50s-with-new-collective/2024041775181
+2. **Being noticed as tired, old, in decline** (high): "Are my eye bags for life now." ... "my laid back dh who doesn’t even notice when I go from black to blond hair noticed them this morning" Mumsnet https://www.mumsnet.com/talk/style_and_beauty/5089431-are-my-eye-bags-for-life-now-is-there-anything-i-can-do-for-my-black-under-bags-theyre-now-so-bad-my-laid-back-dh-who-doesnt-even-notice-when-i-go-from-black-to-blond-hair-noticed-them-this-morning ; 62% of women 50-70 feel 50+ is "viewed by society as a time of decline" (QVC/YouGov 2024) https://fashionunited.uk/news/fashion/qvc-targeting-over-50s-with-new-collective/2024041775181
 3. **Looking "done"** (media level; medium-high): "‘I’d rather spend £300 on fillers than face cream’: the rise of tweakment face" Yahoo UK https://uk.news.yahoo.com/d-rather-spend-300-fillers-100051149.html
 4. **Scammed, no refund** (4 verbatim, ~6 Studio Dermal paraphrases; high): "a waste of time and money" Trustpilot, Plexaderm (fear 1)
 5. **Skin reaction or wrong colour** (4; rare, intense): "I followed the directions exactly and ii got a very strong burning sensation instantly turned my skin very red It remains red and dry." QVC (desire 2); "leaves a dark cast (similar to having a black eyes)" Sephora https://www.sephora.com/product/instant-firmx-eye-sheer-tint-temporary-eye-tightener-P517703
 
 ### 1.4 Objections (pre-purchase)
-1. **"Will it show white or flaky?"** (9; high): "However you have to be careful not to use too much or you get that white stuff." Walmart https://www.walmart.com/reviews/product/5059064050 ; "The original formula leaves a white cast, so I was so hopeful for this new formula" Sephora (fear 5)
-2. **"Only temporary"** (1 verbatim, 2 near-verbatim; an aggregator paraphrase says most complained; medium-high): "very temporary" Sephora Community https://community.sephora.com/t5/Age-Defiers/Under-eye-wrinkles/m-p/6695771
-3. **"Can I wear makeup?"** (7; medium-high): "no oil or water in the area e.g., no moisturiser or liquid foundation, only powder." Mumsnet https://www.mumsnet.com/talk/style_and_beauty/2858943-has-anyone-used-my-perfect-eyes
-4. **"Real or hype?"** (9 user titles, 3 creator titles; medium): "Plexaderm - has anybody tried it?" QVC Community https://community.qvc.com/t5/Beauty/Plexaderm-has-anybody-tried-it/td-p/7440679 ; "DOES IT ACTUALLY WORK?" YouTube https://www.youtube.com/watch?v=1yGClb6nh8s
-5. **"Worth it for the amount?"** (2 verbatim, 4 paraphrases; medium): "skeptical at first at this being a 2 month supply" HSN (desire 1)
-6. **"Genuine, returnable?"** (high for Studio Dermal): "Fake-Plexaderm" eBay Community https://community.ebay.com/t5/Selling/Fake-Plexaderm/m-p/30703222 ; brand page "4.8 out of 5 rating with 50,471 global ratings" vs Trustpilot 2.5 from 89 https://www.trustpilot.com/review/studiodermal.com
+1. **Will it show white or flaky?** (9; high): "However you have to be careful not to use too much or you get that white stuff." Walmart https://www.walmart.com/reviews/product/5059064050 ; "The original formula leaves a white cast, so I was so hopeful for this new formula" Sephora (fear 5)
+2. **Only temporary?** (1 verbatim, 2 near-verbatim; an aggregator paraphrase says most complained; medium-high): "very temporary" Sephora Community https://community.sephora.com/t5/Age-Defiers/Under-eye-wrinkles/m-p/6695771
+3. **Can I wear makeup?** (7; medium-high): "no oil or water in the area e.g., no moisturiser or liquid foundation, only powder." Mumsnet https://www.mumsnet.com/talk/style_and_beauty/2858943-has-anyone-used-my-perfect-eyes
+4. **Real or hype?** (9 user titles, 3 creator titles; medium): "Plexaderm - has anybody tried it?" QVC Community https://community.qvc.com/t5/Beauty/Plexaderm-has-anybody-tried-it/td-p/7440679 ; "DOES IT ACTUALLY WORK?" YouTube https://www.youtube.com/watch?v=1yGClb6nh8s
+5. **Worth it for the amount?** (2 verbatim, 4 paraphrases; medium): "skeptical at first at this being a 2 month supply" HSN (desire 1)
+6. **Genuine, returnable?** (high for Studio Dermal): "Fake-Plexaderm" eBay Community https://community.ebay.com/t5/Selling/Fake-Plexaderm/m-p/30703222 ; brand page "4.8 out of 5 rating with 50,471 global ratings" vs Trustpilot 2.5 from 89 https://www.trustpilot.com/review/studiodermal.com
 - Paraphrase only: works on some bag types only; ingredient fear (cleaning chemical, kiosk glue).
 
 ## 2. Verdicts
@@ -46,18 +46,18 @@ All quotes below are [VERIFIED].
 - Problem-aware: user titles ask for anything that works: "Please fix my eyebags" https://www.mumsnet.com/talk/style_and_beauty/5136383-please-fix-my-eyebags [VERIFIED]
 - Solution-aware: some name the category ("Under eye instant firmer?") [VERIFIED]; PTR's 2021 one-eye demo drew "almost 23 million views" and buyers took "six months' worth" of stock https://www.beautyindependent.com/what-happened-when-peter-thomas-roths-eye-product-went-viral-tiktok/ [VERIFIED]. 2025-2026 YouTube titles test a known solution ("Is it a GIMMICK?") [VERIFIED].
 - An unaware slice converts on sight (Q8) [VERIFIED quote; label INFERENCE].
-- Studio Dermal: BSR #432,922, 89 Trustpilot reviews, about 8 fragmented ASINs, name-borrowing lookalikes [VERIFIED].
+- Studio Dermal: BSR #432,922, 89 Trustpilot reviews, at least 8 fragmented ASINs, name-borrowing lookalikes [VERIFIED].
 - So: open on the problem plus a live demo, answer white cast, duration and makeup within seconds, never lead with the brand or its site rating [INFERENCE].
 
 ### 2.2 Identity marketing
-**Verdict [INFERENCE]: it matters as the casting and language layer around a demo-led offer, not as the trigger. "Rested, not done, and seen" holds, with two refinements.**
+**Verdict [INFERENCE]: it matters as the casting and language layer around a demo-led offer, not as the trigger. *Rested, not done, and seen* holds, with two refinements.**
 - Rested: customers say "more rested", "way more awake", "refreshed"; media and clinicians say "look less tired", "not to look 25 again" https://www.hellomagazine.com/healthandbeauty/898918/look-less-tired-skin-treatments/ [VERIFIED]
 - Not done: "tweakment face", "Pillow-Face" and "overfilled" are contempt terms; HA filler fell 25% globally in 2025 (A3 via A11) [VERIFIED].
 - Seen: "more than half feel invisible when viewing ads"; 70% are "more likely to buy brands that feature people who are their age" (AARP, US, 2019) https://www.aarp.org/press/releases/2019-10-15-boomer-and-gen-x-women-feel-ignored-by-beauty-and-grooming-product-makers-aarp-survey-finds.html [VERIFIED]
 - Payoff elsewhere: L'Oréal Age Perfect "ROI of 2:1", +20% value sales; Boots +39% menopause sales (WARC) [VERIFIED].
 - Counterweight: no source ties identity copy to tightener sales; hooks lead with speed (21 of 71), age call-outs only 5 [VERIFIED counts]. The biggest asset was identity-congruent casting (a 54-year-old's one-eye demo), not identity copy [INFERENCE].
-- Refinement 1: "seen" cuts both ways: dark circles were a top video-call concern (64.4% in a provider survey) https://www.uclahealth.org/news/article/zoom-face-phenomenon-has-people-eyeing-plastic-surgery [VERIFIED]
-- Refinement 2: customers say "ten years younger" unprompted (3 verbatim), but identity leaders reject the frame ("We will never ever talk about anti-aging", Pause; Korres "Meno-Reverse" criticised) [VERIFIED]. Keep "younger" inside customer quotes only [INFERENCE].
+- Refinement 1: *seen* cuts both ways: dark circles were a top video-call concern (64.4% in a provider survey) https://www.uclahealth.org/news/article/zoom-face-phenomenon-has-people-eyeing-plastic-surgery [VERIFIED]
+- Refinement 2: customers say "ten years younger" unprompted (3 verbatim), but identity leaders reject the frame ("We will never ever talk about anti-aging", Pause; Korres "Meno-Reverse" criticised) [VERIFIED]. Keep *younger* inside customer quotes only [INFERENCE].
 
 ### 2.3 Proof elements that build belief (top 10)
 1. Uncut one-eye demo, visible change in under a minute (@trinidad1967) [VERIFIED]
@@ -73,8 +73,8 @@ All quotes below are [VERIFIED].
 
 ### 2.4 Mechanisms that drive belief (top 10)
 1. Self-verification: a-ha and decision happen at the same mirror [INFERENCE]
-2. Realism cues ("No filters") defeat "it's edited" [INFERENCE]
-3. Peer similarity: 10 peer-question titles ("Has anyone tried Plexaderm yet?"); AARP's 70% [VERIFIED]
+2. Realism cues ("No filters") defeat suspicion of editing [INFERENCE]
+3. Peer similarity: 10 pre-purchase titles ("Has anyone tried Plexaderm yet?"); AARP's 70% [VERIFIED]
 4. Concrete numbers: minutes as a spec (2, 3-5, 5, 10) [VERIFIED]
 5. Skeptic-turned-believer stories (Q7) [VERIFIED]
 6. Honest limits: customers dispute duration, not speed [INFERENCE, A8]
@@ -149,7 +149,7 @@ Count = unique quoted strings in the notes containing the term (GitHub items and
 24. **anti-aging**: 10; S, I; negative with this identity: avoid (2.2)
 
 ## 5. Quantity inventory vs brief minimums (verbatim, non-GitHub only)
-Categories overlap. "Titles" = user-written thread or question titles.
+Categories overlap. Titles = user-written thread or question titles.
 
 | Item (minimum) | Found | Where | Status |
 |---|---|---|---|
