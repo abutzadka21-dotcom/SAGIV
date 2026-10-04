@@ -91,3 +91,33 @@ WORKING DRAFT (incremental save). Searches used so far: 9 of 40. This file is re
 - Competitor surfaced: My Perfect Eyes on HSN: https://www.hsn.com/product-reviews/my-perfect-eyes-66-oz-undereye-fix/23076676?page=3&sortTerm=Rating&sortSequence=Descending&star=0
 
 Running count after S15: about 35 new verbatim items (some short fragments). Searches used: 15 of 40.
+
+### S16 Walmart Instantly Ageless (extended, walmart.com)
+- No Instantly Ageless review text returned (tool said results were for other products). Other review pages surfaced: Venofye Beehive Skintight Syringe https://www.walmart.com/reviews/product/877058332 ; "Instant Eyebag Remover" https://www.walmart.com/reviews/product/592194583 ; PTR https://www.walmart.com/reviews/product/142368770
+
+### S17 Amazon UK eye tighteners (extended, amazon.co.uk)
+- Paraphrases with dates (tool summary): Instant Eye & Face Lift Cream 30g, "reviewed in the United Kingdom on 14 March 2026": visible tightening, bags much smoother within a couple of minutes https://www.amazon.co.uk/Instant-Temporary-Tightener-Wrinkles-Puffiness/dp/B0GK1693TD ; Instant Under-Eye-bag Tightening Cream, reviewed UK 10 March 2025: reduces puffiness and dark circles quickly https://www.amazon.co.uk/Temporary-Tightening-Depuffing-Puffiness-Quick-Dry/dp/B0DNGSH3F6 ; LPH LAB: definite tightening on bags, lasts a few hours https://www.amazon.co.uk/LPH-LAB-Temporary-Tightener-Under-Eye/dp/B0BSB7K6FN ; mixed results on other knockoffs.
+- UK knockoff listings surfaced (titles verbatim): RONKIE "Instant Firm Eye Tightener: Upgraded Formula for Women Helps Reduce Eye Bags Puffiness and Wrinkles in 3–5 Minutes When Time Matters 0.67 oz" https://www.amazon.co.uk/RONKIE-Instant-Firm-Eye-Tightener/dp/B0GWZZPDND ; IT Cosmetics Bye Bye Under Eye Bags https://www.amazon.co.uk/Cosmetics-Treatment-Dermatologist-Developed-Multi-Patented-Tightening/dp/B0BQ111P65 ; others B0CTKCFZ9D, B0FLD8G749, B0GYP15LGX, B0FR427TC1.
+
+### S18 Trustpilot Studio Dermal (extended, trustpilot.com)
+- Paraphrase / near-verbatim: a customer "sucked in by Facebook ads" found it "absolutely useless"; running a hand across the eyes, the product 'sets' in vertical lines (single quotes as returned). Instagram £19.99 vs Amazon about £5 (already in round 1). https://uk.trustpilot.com/review/studiodermal.com (only Studio Dermal page in the set)
+
+### S19 Walmart PTR (extended, walmart.com)
+- Paraphrase / near-verbatim: each use left a white powdery film, not easy to remove, and burning after applying; no matter how it is applied you end up with a white film on your skin; with a large amount you CAN end up with 'chalky' residue visible to others; one had used a different brand that left white streaks; another saw no white chalky residue before makeup.
+- Set: https://www.walmart.com/reviews/product/172378790 ; https://www.walmart.com/reviews/product/2655230881 ; https://www.walmart.com/reviews/product/142368770 ; https://www.walmart.com/reviews/product/578685817
+
+### S20 Mumsnet first-person (extended, mumsnet.com)
+- [VERIFIED, set-level] "it's almost impossible to put make up over and if you move your face it cracks."
+- [VERIFIED, set-level] "it did feel a bit crackly."
+- [VERIFIED, set-level] My Perfect Eyes "works but not if you want to put anything else on your face. The minute you put cream, concealer or makeup on it stops working."
+- [VERIFIED, set-level; user relaying the instructions] "no oil or water in the area e.g., no moisturiser or liquid foundation, only powder."
+- Verbatim thread titles: "Are my eye bags for life now. Is there anything I can do for my black under bags (they’re now so bad my laid back dh who doesn’t even notice when I go from black to blond hair noticed them this morning)" https://www.mumsnet.com/talk/style_and_beauty/5089431-are-my-eye-bags-for-life-now-is-there-anything-i-can-do-for-my-black-under-bags-theyre-now-so-bad-my-laid-back-dh-who-doesnt-even-notice-when-i-go-from-black-to-blond-hair-noticed-them-this-morning ; "Make to disguise ageing tired eyes" https://www.mumsnet.com/Talk/style_and_beauty/4383781-Make-to-disguise-ageing-tired-eyes ; "Has anyone used My Perfect Eyes" https://www.mumsnet.com/talk/style_and_beauty/2858943-has-anyone-used-my-perfect-eyes ; "\"My Perfect Eyes\" product" https://www.mumsnet.com/talk/style_and_beauty/5193862-my-perfect-eyes-product ; "My perfect eyes" https://www.mumsnet.com/talk/style_and_beauty/2733282-my-perfect-eyes
+- Set for the quotes: threads 3742375, 3507358, 4807142, 2733282, 5136383 p2, 2858943, 5193862, 4383781, 5089431, 622229 (URLs above and in S3).
+
+### S21 Sephora Community (extended, community.sephora.com)
+- [VERIFIED, set-level fragment] "very temporary"
+- Near-verbatim (unquoted): "probably 8 hours max, and that's a generous estimate"; "realistically lasts up to 4-5 hours" even if brands claim all day or 10 hours; may cause excessively dry skin with frequent use; the kind you'd use for a special event.
+- Set: https://community.sephora.com/t5/Age-Defiers/Under-eye-wrinkles/m-p/6695771 ; https://community.sephora.com/t5/Age-Defiers/Under-eye-wrinkles/m-p/6660138 ; https://community.sephora.com/t5/Skincare-Aware/Super-visible-under-eye-circles/m-p/7123003 ; https://community.sephora.com/t5/Skincare-Aware/Need-HELP/m-p/6466972 ; https://community.sephora.com/t5/Everything-Eyes/Eye-cream-HELP/m-p/7034607 ; https://community.sephora.com/t5/Everything-Eyes/Eye-hollows-lines/m-p/7216144 ; https://community.sephora.com/t5/Everything-Eyes/Puffy-Under-Eyes/m-p/4490448
+- Verbatim thread titles: "Super visible under eye circles"; "Eye cream HELP!"; "Best product to firm eyelids?"; "Eye hollows/lines"; "Puffy Under Eyes".
+
+Running count after S21: about 40 verbatim body quotes plus verbatim thread titles. Searches used: 21 of 40.
