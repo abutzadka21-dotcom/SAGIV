@@ -6,6 +6,7 @@ import { dirname, join } from 'node:path';
 import { design1 } from './design1-unchained-tree.mjs';
 import { design2 } from './design2-ascension.mjs';
 import { design3 } from './design3-horizon.mjs';
+import { v3a, v3b, v3c, v3d } from './design3-variations.mjs';
 
 const require = createRequire(import.meta.url);
 let chromium;
@@ -18,6 +19,10 @@ const designs = [
   ['01-unchained-tree-of-life', design1],
   ['02-ascension-blackwork', design2],
   ['03-horizon-fine-line', design3],
+  ['03a-the-climb', v3a],
+  ['03b-three-stages', v3b],
+  ['03c-constellation', v3c],
+  ['03d-diamond-summit', v3d],
 ];
 const only = process.argv[2];
 
