@@ -313,26 +313,27 @@ I reached **20 verbatim Hebrew consumer-written strings** against a target of 50
 | Verbatim Hebrew headlines, product and clinic titles from Israeli pages (market language, not consumer voice) | 53 | KQ1 (13), KQ2 (2), KQ3 (13), KQ4 (15), KQ5 (5), KQ6 (5). Not counted: the TikTok discover-page title and the US Amazon Hebrew listing title. The Tapuz Q&A title "שאלות לד"ר אבנר שיפטן" is listed but counted nowhere. |
 | Arabic or Russian items | 0 | not searched |
 
-**Consumer-voice items by theme** (verbatim consumer strings plus consumer paraphrases; each item counted once under its main theme)
+**Consumer-voice items by theme.** This counts the 20 verbatim consumer strings plus 18 paraphrase points (the 17 English paraphrases and the Hebrew Israel Hayom verdict). Each item is counted once, under its main theme. Marketing-claim paraphrases are excluded.
 
-| Theme | Verbatim consumer | Paraphrase (consumer or reviewer) | Total | Where |
+| Theme | Verbatim consumer | Paraphrase points | Total | Where |
 |---|---|---|---|---|
-| Desires (prevent, conceal, want recommendations, makeup base) | 4 + 1 unconfirmed | 3 | 8 | KQ2 items 1, 3 to 9 |
-| Problems (black area, bags, wrinkles, hereditary, post-treatment) | 5 + 1 unconfirmed | 3 | 9 | KQ1 items 1 to 4, 7; KQ2 items 14, 15, 17 |
-| DIY and hacks (cucumbers, hemorrhoid ointment, shea, lemon) | 4 + 1 tangential | 2 | 7 | KQ4 items 1, 2, 4 to 7 |
-| Failed attempts and disappointments | 0 | 3 (Israel Hayom verdict in Hebrew, blur note, Maya "no change, won't repurchase") | 3 | KQ3 items 3, 4, 7 |
-| Success stories and holy grails | 2 | 2 (Clinique "excellent", brand mentions) | 4 | KQ3 items 14 to 16; KQ4 item 12 |
-| Objections and fears (procedures) | 0 | 0 consumer (media and clinic only) | 0 | KQ4 items 13 to 20 are editorial |
-| Price sensitivity | 1 tangential | 2 (the "affordable" notes from Maya and skincareinhebrew) | 3 | KQ5 item 8; KQ3 items 7, 13 |
-| Trust, scam and delivery | 0 | 3 (Zap Cosmetical, Zap EyeCare, ice.co.il) | 3 | KQ5 items 1, 3, 4 |
+| Desires (prevent, conceal, ask for recommendations) | 4 + 1 unconfirmed | 3 (FXP concealer recommendations, TikTok Super-Pharm recommendations, eye cream before bed) | 8 | verbatim: KQ2 items 1, 3, 4, 5 and 6 (unconfirmed); paraphrase: KQ2 items 4 (content), 7, 9 |
+| Problems (black area, bags, wrinkles, hereditary, fatigue, post-treatment) | 5 + 1 unconfirmed | 4 (hereditary bags, two FXP fatigue usages, eyelid drooping) | 10 | verbatim: KQ1 items 1 to 4, KQ2 item 17, KQ2 item 15 (unconfirmed); paraphrase: KQ2 item 14, KQ1 items 7 and 23 |
+| DIY and hacks (cucumbers, hemorrhoid ointment, shea, lemon) | 4 + 1 tangential | 2 (homemade shea eye cream, hemorrhoid folk-belief summary) | 7 | KQ4 items 1, 2, 4, 5, 6, 7 |
+| Failed attempts and disappointments | 0 | 3 (Israel Hayom verdict in Hebrew, Israel Hayom blur note, Maya "no change in puffiness, won't repurchase") | 3 | KQ3 items 3, 4, 7 (Maya's positive blur and primer remark is cross-referenced in KQ2 item 8 but counted here only) |
+| Success stories and holy grails | 2 (Carlene trial title, FXP "ביוטיקר" purchase recommendations) | 3 (Clinique "excellent, already seeing results", Clinique, Ahava and Dr. Fischer mentions, Carlene eye-cream content) | 5 | KQ3 items 14, 15, 16; KQ4 item 12 |
+| Objections and fears (procedures) | 0 | 0 | 0 | media and clinic only (KQ4 items 13 to 20) |
+| Price sensitivity | 1 tangential | 1 (skincareinhebrew "affordable caffeine eye cream") | 2 | KQ5 item 8; KQ3 item 13; editorial titles KQ3 item 8 and KQ4 items 21, 24, 27 |
+| Trust, scam and delivery | 0 | 2 (Zap Cosmetical non-arrival vs two-day delivery, Zap EyeCare fast delivery) | 2 | KQ5 items 1, 3; journalism: KQ5 items 4, 5 |
 | Appearance-maintenance drive (tangential) | 1 tangential | 0 | 1 | KQ2 item 10 |
+| **Total** | **20** | **18** | **38** | |
 
 **Source inventory (Israeli URLs cited)**
-- Consumer-generated (CONSUMER_SOURCE_COUNT): Tapuz threads (19): 3473974, 12334753, 6779992, 8278832, 8972596, 12688952, 13028322, 9770853, 5319962, 13186113, 6132233, 15634912, 3729490, 12787374, 7012132, 14635690, 13324426, 13240407, 4546724. FXP (3): 13717579, 14819504, 2998380. Doctors.co.il (1). Israeli review blogger (2: blog post and Threads profile). Hebrew TikTok discover page (1). skincareinhebrew.com (1). Zap (8: 2 store review cards and 6 eye-cream product or category pages).
+- Consumer-generated (35): Tapuz threads (19): 3473974, 12334753, 6779992, 8278832, 8972596, 12688952, 13028322, 9770853, 5319962, 13186113, 6132233, 15634912, 3729490, 12787374, 7012132, 14635690, 13324426, 13240407, 4546724. FXP (3): 13717579, 14819504, 2998380. Doctors.co.il (1). Israeli review blogger (2: blog post and Threads profile). Hebrew TikTok discover page (1). skincareinhebrew.com (1). Zap (8: 2 store review cards and 6 eye-cream product or category pages).
 - Israeli journalism (20): Israel Hayom (5), Kipa (1), ynet, La'Isha and Pplus (7), Xnet (2), mako (2), Maariv (1), ice (1), At (1).
 - Affiliate and blog (3): Velvique (2), iBeauty blog (1).
 - Israeli brand and retail pages (17): IL MAKIAGE, theshopy, Botanifique, Minus 417, CeraVe IL, Kedem (2), Iconix, Medi-Pharm, Spiru-Life, L'Oréal Paris IL, Niroleen, BeBelle, Tapuz SABON blog, Sabon Michal, Ananda, Clinique IL.
-- Israeli clinic and health-information pages (16): Medi-Link, HaDoctor (2), PRP Clinic, Dr. Kazarel, Prof. Ben Simon (3), Dr. Meir (2), Dr. Landau (2), Prof. Barnea, HaYoetzet, Dr. Hollander, Dr. Yasur (eyelidsurgery.co.il), Dr. Leshem.
+- Israeli clinic and health-information pages (16): Medi-Link, HaDoctor (2), PRP Clinic, Dr. Kazarel, Prof. Ben Simon (3), Dr. Meir (1), Dr. Landau (2), Prof. Barnea, HaYoetzet, Dr. Hollander, Dr. Yasur (eyelidsurgery.co.il), Dr. Leshem.
 - Counted separately: il.iherb.com (8 pages; Israeli storefront of a US retailer, global reviews).
 
 **Query log (27 executed, 2 refused for budget; 1 WebFetch attempt, blocked)**
