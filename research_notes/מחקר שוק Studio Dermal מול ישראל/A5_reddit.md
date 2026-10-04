@@ -85,13 +85,13 @@ No. reddit.com is excluded from the search tool at the provider level, WebFetch 
 | V22 | "Preparation H Cream with Bio Dyne" | eBay catalog page | https://www.ebay.com/p/77873663 | Seller language |
 | V23 | "Peter Thomas Roth Instant FIRMx Eye Tightening Treatment - 1oz" | eBay listing | https://www.ebay.com/itm/397371397331 | |
 | V24 | "Peter Thomas Roth Instant FIRMx Temporary Eye Tightener OPEN TUBE AMAZON RETOURE-" | eBay.de listing | https://www.ebay.de/itm/276665884316 | "Retoure" = returned item |
-| V25 | "Peter Thomas Roth Instant Firmx Temporäre Augenstraffung 1 Oz. mit Pinsel VERSIEGELT LESEN-" | eBay.de listing | https://www.ebay.de/itm/187777668081 | German: "temporary eye tightening, with brush, SEALED, READ" |
+| V25 | "Peter Thomas Roth Instant Firmx Temporäre Augenstraffung 1 Oz. mit Pinsel VERSIEGELT LESEN-" | eBay.de listing | https://www.ebay.de/itm/187777668081 | My translation from German: temporary eye tightening, with brush, SEALED, READ |
 | V26 | "Peter Thomas Roth Instant Firmx Auge temporäre Augenstraffung 1 fl. Oz. schneller Versand-" | eBay.de listing | https://www.ebay.de/itm/224613576397 | "schneller Versand" = fast shipping |
 | V27 | "Peter Thomas Roth Instant FIRMx Eye Temporary Eye Tightener 1 oz" | eBay listing | https://ebay.com/itm/176431456816 | |
 | V28 | "Peter Thomas Roth Instant Firmx Eye Temporary Eye Tightener 1 Fl oz Fast Ship" | eBay listing | https://www.ebay.com/itm/224613576397 | |
 | V29 | "Peter Thomas Roth Instant FirmX Eye Temporary Eye Tightener 30 ml" | eBay listing | https://www.ebay.com/itm/356613085314 | |
 | V30 | "Instantly Ageless- Anti-Wrinkle Micro-Cream to Visibly Reduce Signs of Aging in Just Two Minutes (25 Vials)" | Walmart listing | https://www.walmart.com/ip/514958855 | |
-| V31 | "Instantly Ageless 10 Fläschchen, Facelift, Faltenentferner in Sekunden-" | eBay.de listing | https://www.ebay.de/itm/264796216199 | German: "10 vials, facelift, wrinkle remover in seconds" |
+| V31 | "Instantly Ageless 10 Fläschchen, Facelift, Faltenentferner in Sekunden-" | eBay.de listing | https://www.ebay.de/itm/264796216199 | My translation from German: 10 vials, facelift, wrinkle remover in seconds |
 | V32 | "Instantly Ageless Moisture Lift, 1.7 oz" | Walmart listing | https://www.walmart.com/ip/161333082 | |
 | V33 | "Authentic Jeunesse Instantly Ageless Face Lift Vials" | Walmart listing | https://www.walmart.com/ip/972864957 | |
 | V34 | "Plexaderm® Reviews 644" | Trustpilot, Ireland domain, page 4 | https://ie.trustpilot.com/review/www.plexaderm.com?page=4 | Review count at crawl time |
@@ -147,7 +147,7 @@ No subreddit could be verified (existence, size, activity, rules) because no red
 
 | # | Subreddit | Expected URL (unverified) | Why relevant to TMP-02 | Exists? (confidence) |
 |---|---|---|---|---|
-| 1 | r/SkincareAddiction | https://www.reddit.com/r/SkincareAddiction/ | Largest general skincare community; eye cream, caffeine, Preparation H and "do eye creams work" debates | High |
+| 1 | r/SkincareAddiction | https://www.reddit.com/r/SkincareAddiction/ | Largest general skincare community; eye cream, caffeine, Preparation H and do-eye-creams-work debates | High |
 | 2 | r/30PlusSkinCare | https://www.reddit.com/r/30PlusSkinCare/ | Audience first noticing bags, fine lines and crepey texture | High |
 | 3 | r/40PlusSkincare | https://www.reddit.com/r/40PlusSkincare/ | Core buyer age for tighteners; crepey skin; filler vs surgery | High |
 | 4 | r/AsianBeauty | https://www.reddit.com/r/AsianBeauty/ | Eye patches, K-beauty and J-beauty eye products | High |
@@ -159,7 +159,7 @@ No subreddit could be verified (existence, size, activity, rules) because no red
 | 10 | r/tretinoin | https://www.reddit.com/r/tretinoin/ | Retinoids for crepey under-eye skin | High |
 | 11 | r/Menopause | https://www.reddit.com/r/Menopause/ | Collagen loss, crepey skin, puffiness narratives | High |
 | 12 | r/BeautyGuruChatter | https://www.reddit.com/r/BeautyGuruChatter/ | Critique of ads and influencer claims (relevant to Plexaderm-style ads) | High |
-| 13 | r/AskWomenOver30 | https://www.reddit.com/r/AskWomenOver30/ | Ageing and "people say I look tired" threads | High |
+| 13 | r/AskWomenOver30 | https://www.reddit.com/r/AskWomenOver30/ | Ageing and people-say-I-look-tired threads | High |
 | 14 | r/SkincareAddictionUK | https://www.reddit.com/r/SkincareAddictionUK/ | UK source market: UK retailers, prices, product names | Medium |
 | 15 | r/blepharoplasty | https://www.reddit.com/r/blepharoplasty/ | Procedure-specific community (named in the brief) | Low-medium |
 | opt. | r/antiMLM | https://www.reddit.com/r/antiMLM/ | Jeunesse (Instantly Ageless) is sold through MLM; legitimacy debates | High existence, medium relevance |
@@ -190,10 +190,10 @@ No subreddit could be verified (existence, size, activity, rules) because no red
 11. Best-under-eye-treatment-for-bags (thread slug) | Sephora Community | https://community.sephora.com/t5/Skincare-Aware/Best-under-eye-treatment-for-bags/m-p/3758263 [VERIFIED]
 
 ### Inferences
-- [INFERENCE] "Tired" is the dominant emotional word across unrelated communities (items 2, 5, 6, 9). The desire it implies is to look as rested as you feel and to stop receiving remarks, which is closer to TMP-02's "temporary" promise (look rested today) than to "anti-aging".
+- [INFERENCE] "Tired" is the dominant emotional word across unrelated communities (items 2, 5, 6, 9). The desire it implies is to look as rested as you feel and to stop receiving remarks, which is closer to TMP-02's temporary promise (look rested today) than to generic anti-aging.
 - [INFERENCE] "looking ill" (item 1) raises the stakes beyond vanity: being read as unwell.
 - [INFERENCE] Item 3 suggests bags are also a concern for younger people, who may frame them as genetic or premature rather than age-related.
-- [INFERENCE] Item 9 shows that "tired" is also used about over-treated faces, so the desire is "rested, but not done".
+- [INFERENCE] Item 9 shows that "tired" is also used about over-treated faces, so the desire is to look *rested, but not done* (my wording).
 
 ### Gaps
 - 30+ desire quotes from Reddit: none found (blocked).
@@ -222,7 +222,7 @@ No subreddit could be verified (existence, size, activity, rules) because no red
 
 ### Gaps
 - 20+ failed-attempt quotes from Reddit: none found (blocked).
-- [GENERAL KNOWLEDGE, unverified hypotheses; do not quote] Failure stories commonly reported about tighteners and alternatives: white or grey cast, especially on deeper skin tones; having to keep the face still while it dries; fine in photos but visible in person; cracking when smiling; pilling over moisturizer or SPF; stinging; eye creams "doing nothing" for fat-pad bags; filler making bags look worse or puffier (migration, bluish tint known as the Tyndall effect); Preparation H stinging the eyes.
+- [GENERAL KNOWLEDGE, unverified hypotheses; do not quote] Failure stories commonly reported about tighteners and alternatives: white or grey cast, especially on deeper skin tones; having to keep the face still while it dries; fine in photos but visible in person; cracking when smiling; pilling over moisturizer or SPF; stinging; eye creams doing nothing for fat-pad bags; filler making bags look worse or puffier (migration, bluish tint known as the Tyndall effect); Preparation H stinging the eyes.
 
 ---
 
@@ -244,7 +244,7 @@ Very thin and paraphrase-level only: some Plexaderm users report immediate, sati
 
 ### Gaps
 - Holy-grail descriptions on Reddit: none found (blocked).
-- [GENERAL KNOWLEDGE, unverified; do not quote] Success language in tightener reviews usually centers on "instant", "for photos or events", "less is more / thin layer" and "apply before makeup and wait". Happy lower-blepharoplasty patients often say they wish they had done it sooner.
+- [GENERAL KNOWLEDGE, unverified; do not quote] Success language in tightener reviews usually centers on instant results, use for photos or events, a thin layer (less is more), and applying before makeup and waiting. Happy lower-blepharoplasty patients often say they wish they had done it sooner.
 
 ---
 
@@ -270,7 +270,7 @@ Preparation H is the most visible DIY hack in the results. A gray market sells C
 14. "Dark circles under my eyes" | AnandTech Forums, page 3 | https://forums.anandtech.com/threads/dark-circles-under-my-eyes.1960821/page-3 [VERIFIED title; surfaced by both Preparation H queries, so the page probably discusses it (INFERENCE, not read)]
 
 ### Inferences
-- [INFERENCE] The Preparation H hack is explicitly framed as a cheap replacement for an "expensive beauty treatment" (filler, per P06). The DIY segment is price-motivated and already accepts a temporary effect, which is the same job TMP-02 does, with a "made for the eye area" safety story.
+- [INFERENCE] The Preparation H hack is explicitly framed as a cheap replacement for an "expensive beauty treatment" (filler, per P06). The DIY segment is price-motivated and already accepts a temporary effect, which is the same job TMP-02 does, with a *made for the eye area* safety story.
 - [INFERENCE] eBay sellers labelling Canadian Preparation H as "Eye Cream Crema Para Ojos" (item 5) show that people will pay a premium, and import, for the formula they believe is the genuine tightening one.
 - [GENERAL KNOWLEDGE, verify before use] Current US Preparation H formulas no longer contain live yeast cell derivative (LYCD, "Bio-Dyne"); Canadian formulas kept it longer, which is why sellers stress "Canadian". Not all Preparation H products contain hydrocortisone; the classic vasoconstrictor ingredient is phenylephrine.
 
@@ -290,16 +290,16 @@ Only indirect evidence: Preparation H is framed as a stand-in for under-eye fill
 2. "“Gives Uncanny Valley”: Experts Explain Why Stars Are Looking Strangely “Tired” Despite Youthful Skin" | AOL | https://www.aol.com/articles/doctor-reveals-reason-behind-tired-123731078.html [VERIFIED; content not read]
 3. "My Under-Eye Refresh" | Substack | https://daniellebernstein.substack.com/p/my-under-eye-refresh [VERIFIED; treatment unknown]
 4. [PARAPHRASE, P13] "Instant Eye Tightener" listings are temporary eye creams for the appearance of bags, puffiness, dark circles and fine lines. Group G01 (section 0).
-5. "Eye Creams For Under Eye Bags" | Bluemercury | https://bluemercury.com/pages/shop-eye-creams-for-under-eye-bags [VERIFIED; retailers still sell eye creams against "bags"]
+5. "Eye Creams For Under Eye Bags" | Bluemercury | https://bluemercury.com/pages/shop-eye-creams-for-under-eye-bags [VERIFIED; retailers still sell eye creams against bags]
 6. best-creams-to-get-rid-of-baggy-eyes-and-dark-circles | L'Oréal Paris UK | https://www.loreal-paris.co.uk/best-creams-to-get-rid-of-baggy-eyes-and-dark-circles [VERIFIED slug]
 
 ### Inferences
-- [INFERENCE] The media frame of over-filled faces plus the "expensive treatment" frame can position a non-invasive, temporary tightener as the low-risk option for people who fear needles or looking "done".
+- [INFERENCE] The media frame of over-filled faces plus the "expensive beauty treatment" frame (V15) can position a non-invasive, temporary tightener as the low-risk option for people who fear needles or looking overdone.
 - [INFERENCE] Brands and retailers (items 5, 6) promise creams that "get rid of" bags, while the DIY and tightener discussion accepts temporary camouflage. That gap between promise and expectation is where an honest tightener message (temporary, visible in minutes) can stand out.
 
 ### Gaps
 - Reddit comparisons: none found.
-- [GENERAL KNOWLEDGE, unverified hypotheses; do not quote] Heuristics common in procedure communities: bags from herniated fat are not fixed by creams or filler; lower blepharoplasty (often transconjunctival, sometimes with fat repositioning) is seen as the definitive fix; tear-trough filler suits hollows rather than bags and can cause puffiness, migration or a bluish tint; festoons and malar bags are hard to treat; tighteners are seen as "makeup for bags". Likely ideal-solution description: instant, invisible under makeup, lasts all day, doesn't crack with expressions, no needles or downtime, works on all skin tones, affordable.
+- [GENERAL KNOWLEDGE, unverified hypotheses; do not quote] Heuristics common in procedure communities: bags from herniated fat are not fixed by creams or filler; lower blepharoplasty (often transconjunctival, sometimes with fat repositioning) is seen as the definitive fix; tear-trough filler suits hollows rather than bags and can cause puffiness, migration or a bluish tint; festoons and malar bags are hard to treat; tighteners are seen as makeup for bags. Likely ideal-solution description: instant, invisible under makeup, lasts all day, doesn't crack with expressions, no needles or downtime, works on all skin tones, affordable.
 
 ---
 
@@ -371,13 +371,13 @@ No prices were verified. Legitimacy concerns are visible at title level: an eBay
 
 ### Inferences
 - [INFERENCE] "Scam" perception in this category has at least three sources: (a) ads seen as exaggerated (P10); (b) trial-style offers (a separate "trial" domain has its own review profile, V36; how that offer works is not verified); (c) counterfeits on marketplaces (V08, P11, V33 "Authentic", V25 "VERSIEGELT"). An Israeli seller can address each: honest demos, no hidden subscription, proof of an authorized channel (lot numbers, sealed packaging).
-- [INFERENCE] SEO spam pages about Plexaderm safety and "review" suggest strong search demand for "is it safe / is it legit".
+- [INFERENCE] SEO spam pages about Plexaderm safety (V38) and reviews (V39) suggest strong search demand for safety and legitimacy answers.
 - [INFERENCE] PTR FIRMx resale on eBay.com and eBay.de, including opened returns, shows an active secondary market for the leading competitor.
 
 ### Gaps
 - Reddit price and value debates (for example whether a few hours of effect justify the price, cost per use, comparison with filler or surgery costs): not found.
 - Competitor prices (Plexaderm, PTR FIRMx, Instantly Ageless, Sudden Change): none returned in this session; other researchers' notes may cover them.
-- Reddit's verdict on "is Plexaderm a scam": not found.
+- Reddit's verdict on whether Plexaderm is a scam: not found.
 
 ---
 
@@ -444,29 +444,29 @@ Twelve patterns can be drawn at inference level from the thin non-Reddit evidenc
 
 **Decision process as it appears in the evidence [INFERENCE, assembled from titles; not validated]**
 1. Notice the problem, or someone comments on it (V01, V02).
-2. Ask a community for "the best product/treatment" (V05, V06).
+2. Ask a community for the best product or treatment (V05, V06).
 3. Try cheap or DIY fixes: Preparation H, caffeine, allergy drops (V14, V15, P01, P02).
 4. Move to a branded instant tightener (Plexaderm, PTR FIRMx, Instantly Ageless; V23-V33).
 5. Check legitimacy before or after buying: Trustpilot, ScamDoc, official site, lot numbers (V34-V37, P11).
 6. If temporary fixes disappoint, consider procedures (filler or surgery), where the media "tired" and "uncanny valley" narrative can create hesitation (V16).
 
 **Implications for TMP-02 in Israel [INFERENCE]**
-- Lead with "look rested" (the social trigger) rather than generic anti-aging.
+- Lead with *look rested* (the social trigger) rather than generic anti-aging.
 - Pre-empt the top failure modes with proof: under concealer, while smiling, in daylight; state honestly how long it lasts.
 - Make authenticity visible: authorized seller, sealed packaging, lot numbers.
 - Avoid trial or auto-subscription mechanics, which feed scam perception.
-- Position against DIY as "made for the eye area" (Preparation H warnings, V15/P07), and against filler or surgery as "no needles, no downtime, no regret".
+- Position against DIY as *made for the eye area* (Preparation H warnings, V15/P07), and against filler or surgery as *no needles, no downtime, no regret* (suggested messaging, my wording).
 
 ### Gaps
 **General-knowledge hypotheses to test in a real Reddit pass [GENERAL KNOWLEDGE, unverified; do not present as findings]**
-- H1. Users often say no cream removes fat-pad bags and that "only surgery fixes bags".
+- H1. Users often say no cream removes fat-pad bags and that only surgery fixes bags.
 - H2. Tighteners are judged good for photos and events but visible (white cast, cracking) up close or in daylight.
 - H3. Technique decides success: thin layer, keep the face still while it dries, apply before makeup, avoid heavy moisturizer underneath.
 - H4. White or grey residue complaints are more frequent from people with deeper skin tones.
 - H5. Plexaderm-style before-and-after ads are widely suspected of being staged or edited.
 - H6. Tear-trough filler regret stories (puffiness, migration, bluish tint, dissolving) are common in procedure subreddits.
-- H7. Lower blepharoplasty threads mix "best decision" stories with fear of complications (hollowing, lid changes).
-- H8. Genetic bags from the teens or twenties, and repeated "are you tired?" remarks, are recurring emotional posts.
+- H7. Lower blepharoplasty threads mix best-decision stories with fear of complications (hollowing, lid changes).
+- H8. Genetic bags from the teens or twenties, and repeated are-you-tired remarks, are recurring emotional posts.
 - H9. Cold therapies are seen as helping fluid puffiness only, and briefly.
 - H10. Preparation H is debated: short-term effect for some, stinging and irritation warnings for others.
 - H11. Concealer advice focuses on brightening the shadow under the bag, not the bag itself, and on thin layers.
@@ -486,7 +486,7 @@ STEP 6 cannot be completed in this environment. Closing it needs a user decision
 **Options (for the user to decide; I attempted none of them)**
 - A. Raise CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION. This restores searching for non-Reddit communities but does not unlock Reddit (the 400 block is separate from the budget).
 - B. Reddit through a channel the user controls: the user exports or pastes threads (URL plus comment text) into the project folder and a researcher codes them by theme; or, if the user enables a browser tool on their own machine (Claude in Chrome or the desktop app's built-in browser), a researcher could read public threads there with the user's consent.
-- C. A substitute layer labelled as non-Reddit: Sephora Community, MakeupAlley, RealSelf (procedure reviews with "worth it" ratings), Mumsnet (UK), PurseForum, Trustpilot, Ulta and Walmart reviews, AnandTech and HealthUnlocked. Sephora Community, Trustpilot, AnandTech, HealthUnlocked, Blind and eBay Community already appear in the index; MakeupAlley, RealSelf, Mumsnet and PurseForum were untested because the budget ran out.
+- C. A substitute layer labelled as non-Reddit: Sephora Community, MakeupAlley, RealSelf (procedure reviews with worth-it ratings), Mumsnet (UK), PurseForum, Trustpilot, Ulta and Walmart reviews, AnandTech and HealthUnlocked. Sephora Community, Trustpilot, AnandTech, HealthUnlocked, Blind and eBay Community already appear in the index; MakeupAlley, RealSelf, Mumsnet and PurseForum were untested because the budget ran out.
 
 **Ready-to-run query plan (once access or budget is restored)**
 - Reddit (needs option B): plexaderm; plexaderm scam; plexaderm ad; "instant eye tightener"; "peter thomas roth" firmx; "firmx" white residue; "instantly ageless"; "sudden change" under eye; "preparation h" under eyes; "eye tightener" makeup cracking; "under eye bags" "look tired"; "eye bags" filler regret; "tear trough" filler puffy; "lower bleph" worth it; transconjunctival recovery; festoons; malar bags; "crepey under eye"; tretinoin under eyes; menopause crepey eyes; "cold spoon" puffy eyes; concealer over eye bags; "studio dermal".

@@ -1,14 +1,14 @@
-# B3: Israel social media, creators, ads, segments and identity markers for an instant under-eye tightener (62 Israeli sources)
+# B3: Israel social media, creators, ads, segments and identity markers for an instant under-eye tightener (67 Israeli sources)
 
-**Israeli sources found: 62 distinct Israeli URLs** (Hebrew pages or Israeli domains) came up in search results and are cited below. About 22 of them yielded content beyond a page title (snippet text or the search tool's own summary). The other ~40 are cited by their verbatim title only. I also saw 5 Hebrew-interface Amazon.com listings and 8 English TikTok/review pages. These are NOT Israeli and are labeled that way wherever they appear.
+**Israeli sources found: 67 distinct Israeli sources** (68 Israeli URLs; one mako article is indexed under two URLs). All are Hebrew pages or Israeli domains, came up in search results, and are cited below. About 22 of them yielded content beyond a page title (snippet text or the search tool's own summary). The other ~45 are cited by their verbatim title only. Separately, 4 Hebrew-interface Amazon.com listings and 6 English TikTok/review pages are cited. These are NOT Israeli and are labeled that way wherever they appear.
 
 **Method and hard limits (read first)**
-1. I ran 15 WebSearch queries, all in Hebrew (some include a brand name), 13 of them in "extended" mode. On the 16th query the tool refused with: "this session has used its web search budget (200 of 200 WebSearch calls)". The cap covers the whole session and is shared with the other researchers, so I could not reach the 40-70 queries requested. Raising it requires the user to set CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION.
+1. I ran 15 WebSearch queries, all in Hebrew (some mixed with an English brand name or a site: operator), all 15 in "extended" mode. On the 16th query the tool refused with: "this session has used its web search budget (200 of 200 WebSearch calls)". The cap covers the whole session and is shared with the other researchers, so I could not reach the 40-70 queries requested. Raising it requires the user to set CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION.
 2. The single permitted WebFetch attempt (a Hebrew TikTok discover page) failed with EGRESS_BLOCKED for www.tiktok.com. No page was opened. Everything below comes from search-result titles, snippets, or the search tool's summaries.
 3. Consequences against the targets:
    - Hebrew user comments: 0 verbatim (target 20-30).
    - Hebrew hooks: 11 verbatim commercial headlines or hooks from Israeli sellers, PR and one scam ad, plus 12 Hebrew titles of reseller, affiliate and content-marketing pages (target 20-25). None is Meta ad copy.
-   - Creators: 12 named plus 2 unnamed. 4 have audience numbers.
+   - Creators: 12 named plus 3 unnamed. 5 have audience numbers, 3 of them named.
    - Segments (Haredi, Arab, Russian-speaking), Botox/filler prevalence and Israeli marketer or trust-survey articles: the cap hit before dedicated queries ran. These are covered only by [GENERAL KNOWLEDGE], marked as such.
 4. Tag key:
    - [VERIFIED (title)]: the page title exactly as the tool returned it.
