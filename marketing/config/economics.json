@@ -1,0 +1,47 @@
+{
+  "_note": "Prices follow reports/marketing_playbook_IL.md. Every cost below is a PLACEHOLDER from the playbook's worked example (section 2). Replace with real numbers, then run: python3 marketing/tools/unit_economics.py",
+  "currency": "ILS",
+  "vat_rate": 0.18,
+  "prices_incl_vat": {
+    "single": 139,
+    "double": 239,
+    "triple": 309
+  },
+  "shipping_charged_to_customer_incl_vat": {
+    "single": 24,
+    "double": 0,
+    "triple": 0
+  },
+  "price_band_per_unit_inference": [129, 149],
+  "costs_placeholder": {
+    "product_cost_per_unit": 30,
+    "shipping_paid_by_seller_per_order": 25,
+    "packaging_per_order": {
+      "single": 4,
+      "double": 4,
+      "triple": 12
+    },
+    "payment_fee_rate_of_customer_price": 0.025,
+    "cancellation_rate_of_net_revenue": 0.05
+  },
+  "order_mix_assumption": {
+    "single": 0.70,
+    "double": 0.25,
+    "triple": 0.05
+  },
+  "kpi_working_targets_inference": {
+    "hook_rate_3s_views_per_impression_min": 0.25,
+    "ctr_cold_min": 0.01,
+    "landing_page_conversion_min": 0.025,
+    "add_to_cart_rate_min": 0.07,
+    "aov_incl_vat_min": 180,
+    "whatsapp_inquiry_to_purchase_48h_min": 0.20,
+    "repeat_purchase_90d_min": 0.15,
+    "cpa_target_share_of_breakeven": 0.75
+  },
+  "decision_rules": {
+    "min_purchases_per_variant": 30,
+    "max_test_weeks": 4,
+    "stop_if_consecutive_days_above_breakeven_cpa": 7
+  }
+}
