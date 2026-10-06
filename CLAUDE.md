@@ -16,6 +16,7 @@
 |---|---|
 | הסיכום השיווקי (מקור האמת לשיווק, 19 סעיפים) | `reports/marketing_playbook_IL.md` |
 | הדוח המלא (שתי לשוניות) | https://claude.ai/code/artifact/a8f3ec39-7c07-4669-9005-e3ecebee7808 |
+| הדוח המלא כ-PDF (שתי הלשוניות מאוחדות, נכון ל-4 באוקטובר 2026, 233 עמודים) | `reports/market_research_StudioDermal_IL.pdf` |
 | ממצאי Chrome (נוצר ומתעדכן ממשימות סעיף 18) | `reports/chrome_findings.md` |
 | המסקנות המחייבות ודרישות כל פרק | `reports/section_playbook.md` |
 | חוקי האמת, הסגנון ומילון המונחים | `reports/writing_guide.md` |
